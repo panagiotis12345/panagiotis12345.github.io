@@ -103,7 +103,7 @@
       }
     },
     "supportOrderThermalRollEnabled" : false,
-    "dontAllowPROrderNtf" : false,
+    "dontAllowPROrderNtf" : true,
     "receiptSettings" : {
       "showEmvDataInReceipt" : false,
       "acquirerBankNameAsBIDSetting" : false,
