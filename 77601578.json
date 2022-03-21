@@ -102,7 +102,7 @@
         "callMe" : "support@cardlink.gr"
       }
     },
-    "supportOrderThermalRollEnabled" : false,
+    "supportOrderThermalRollEnabled" : true,
     "dontAllowPROrderNtf" : true,
     "receiptSettings" : {
       "showEmvDataInReceipt" : false,
