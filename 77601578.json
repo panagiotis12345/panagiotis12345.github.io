@@ -106,6 +106,7 @@
     "dontAllowPROrderNtf" : true,
     "receiptSettings" : {
       "showEmvDataInReceipt" : false,
+      "merchantReceipt" : false,
       "acquirerBankNameAsBIDSetting" : false,
       "barcodeSetting" : "00",
       "customLogo" : "",
